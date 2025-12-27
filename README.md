@@ -1,1 +1,1 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fzinfz&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fzinfz&&hide=jupyter%20notebook,Roff,C%23,Java,Rascal,Vim%20script&langs_count=8)
+![GitHub Card](https://githubcard.com/fzinfz.svg)
